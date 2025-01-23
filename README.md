@@ -1,12 +1,12 @@
 # rcis2025
 
-# This is the online repository for the article xxxx
+This is the online repository for the article xxxx
 
-# The Wikibase cloud instantiation is available at: https://rule-hierarchies.wikibase.cloud/
+The Wikibase cloud instantiation is available at: https://rule-hierarchies.wikibase.cloud/
 
-# The Kumu mas is available at xxxxx
+The Kumu mas is available at xxxxx
 
-# This is the SPARQL query: 
+This is the SPARQL query: 
 
 PREFIX wd: <https://rule-hierarchies.wikibase.cloud/entity/>
 PREFIX wdt: <https://rule-hierarchies.wikibase.cloud/prop/direct/>
@@ -70,7 +70,6 @@ OPTIONAL {?item wdt:P23 ?haspartcompositionrecursivenumber.}
 OPTIONAL {?item wdt:P24 ?haspartrecursivenumber.}
 OPTIONAL {?item wdt:P25 ?hasscoperecursivenumber.}
 OPTIONAL {?item wdt:P26 ?hasterritorialscoperecursivenumber.}
-  # Fetch human-readable labels for entities, properties, and values
   SERVICE wikibase:label { 
     bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". 
   }
