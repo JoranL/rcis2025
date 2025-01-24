@@ -6,6 +6,8 @@ The Wikibase cloud instantiation is available at: https://rule-hierarchies.wikib
 
 The Kumu mas is available at: https://kumu.io/joran/rule-hierarchies-v3-dynamic
 
+In this folder are also the figures used in the article. 
+
 This is the SPARQL query: 
 
 PREFIX wd: <https://rule-hierarchies.wikibase.cloud/entity/>
