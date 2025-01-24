@@ -2,7 +2,7 @@
 
 This is the online repository for the article "Modelling Hierarchies of Organisational Rules", RCIS 2025
 
-The Wikibase cloud instantiation is available at: https://rule-hierarchies.wikibase.cloud/
+The Wikibase Cloud instantiation is available at: https://rule-hierarchies.wikibase.cloud/
 
 The Kumu mas is available at: https://kumu.io/joran/rule-hierarchies-v3-dynamic
 
